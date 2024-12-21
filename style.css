@@ -51,7 +51,7 @@ body {
 /* Header Section */
 .header {
     text-align: center;
-    background: url('https://hightechcampus.com/storage/5046/db005956-351e-caa4-3068-2b50d1b3bdee.png') center center no-repeat; /* Replace with your desired background image URL */
+    background: url('https://hightechcampus.com/storage/5046/db005956-351e-caa4-3068-2b50d1b3bdee.png') center center no-repeat; 
     background-size: cover;
     color: white;
     padding: 100px 120px;
@@ -240,7 +240,7 @@ body {
 
 /* Footer Styling */
 .footer {
-    background: url('https://media.licdn.com/dms/image/v2/D5622AQHb577tCfvImQ/feedshare-shrink_800/feedshare-shrink_800/0/1706973535208?e=2147483647&v=beta&t=L4dMnc1a1TdAs4X47rWGEG-nrAMbQxaAfr48-45nuGo') center center no-repeat; /* Replace with your desired footer background image */
+    background: url('https://media.licdn.com/dms/image/v2/D5622AQHb577tCfvImQ/feedshare-shrink_800/feedshare-shrink_800/0/1706973535208?e=2147483647&v=beta&t=L4dMnc1a1TdAs4X47rWGEG-nrAMbQxaAfr48-45nuGo') center center no-repeat; 
     background-size: cover;
     padding: 25px 0;
     text-align: center;
